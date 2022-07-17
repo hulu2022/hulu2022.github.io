@@ -21,17 +21,10 @@ item 3
 <li>item 4</li>
 <li>item 5</li>
 </ul>
-</p>
-<p class="block">
 <form action="#">
 <p><label for="inp1">text field 1:</label><input type="text" name="inp1" id="inp1" value="" /></p>
 <p><label for="inp2">text field 2:</label><input type="text" name="inp2" id="inp2" value="" /></p>
 <p><button type="submit">submit</button></p>
 </form>
-</p>
-</p>
-<p class="script-link">
-</p>
-</p>
 </body>
 </html>
