@@ -4,7 +4,6 @@
 <title>嘟嘟的呼噜测试页面</title>
 </head>
 <body>
-<p>点击本框内，可实现震动</p>
 <ul>
 <li>item 1</li>
 <li>item 2</li>
