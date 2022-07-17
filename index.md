@@ -1,5 +1,4 @@
-<!doctype html public "嘟嘟" "呼噜">
-<html xmlns="测试">
+<html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>jquery窗口震动特效</title>
